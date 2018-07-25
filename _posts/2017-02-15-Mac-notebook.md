@@ -17,6 +17,8 @@ description: 今天建立博客，放入博客。
 [Mac官方文档](https://support.apple.com/zh-cn/explore/new-to-mac)
 ## 触控板
 点击设置>触控板>查看手势用法
+![](http://p85pnardv.bkt.clouddn.com/18-7-25/79307404.jpg)
+![](http://p85pnardv.bkt.clouddn.com/18-7-25/93910874.jpg)
 
 
 
@@ -27,6 +29,8 @@ description: 今天建立博客，放入博客。
 ## Mission Control
 这有是 Mac 里一个非常好用的技能了，你可以同时建几个桌面，这个桌面用来播放娱乐软件，另一个
 桌面用来当工作界面，还有一个用来监控电脑情况。
+![](http://p85pnardv.bkt.clouddn.com/18-7-25/34674432.jpg)
+
 - 用法很简单 触控板，三指往上拨就可以添加或者删除桌面了。
 
 
@@ -34,7 +38,7 @@ description: 今天建立博客，放入博客。
 ##      Spotlight     Alferd
 - Spotlight 是Mac自带的搜索软件，搜索功能及其强大，这样让你不要鼠标的一个好技能。
 `cmd + 空格   #快速呼出 Spolight `
-
+![](http://p85pnardv.bkt.clouddn.com/18-7-25/10162179.jpg)
 
 `option + 空格 #快速呼出 Alferd `
 
@@ -45,6 +49,7 @@ homebrew 是Mac 是一特殊的软件管理工具，不过需要操作终端，�
 ` cmdmand + 空格 ` 直接搜索终端。
 
 - 先下载 xcode ，这个在 app store 里面下载。
+![](http://p85pnardv.bkt.clouddn.com/18-7-25/80453077.jpg)
 
 - 安装 homebrew
 在终端输入：
@@ -121,4 +126,4 @@ Oh My Zsh 是一款自动配置zsh的软件
 - 170617  创建
 - 170618 增加homebrew内容
 - 170712 增加 iterm2 配置
-- 1712010 增加apple官网
+- 1712010 增加apple官网 
