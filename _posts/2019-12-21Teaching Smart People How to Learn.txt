@@ -1,3 +1,13 @@
+---
+layout: post
+title: 关于学习
+date: 2019-12-25
+categories: blog
+tags: [学习,行动]
+description: 克里斯·阿吉里斯
+
+---
+
 #  关于学习
 ### 那些你不知道的事 
 此文是根据管理学大师克里斯·阿吉里斯在哈佛商业评论发表《教聪明人学会学习》原文《Teaching Smart People How to Learn》而来。
