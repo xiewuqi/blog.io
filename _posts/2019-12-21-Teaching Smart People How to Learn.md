@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 关于学习
-date: 2019-12-25
+title: 关于学习 那些你不知道的事
+date: 2019-12-23
 categories: blog
-tags: [学习,行动]
-description: 克里斯·阿吉里斯
+tags: [学习,读书]
+description: 很久没有更新，现在重新尝试。
 
 ---
 
