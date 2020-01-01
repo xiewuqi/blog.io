@@ -3,7 +3,7 @@ layout: post
 title: 走吧，2019年
 date: 2020-1-1
 categories: blog
-tags: [总结,随笔]
+tags: [随笔,总结]
 description: 一个人可以闪闪发光，两个人可以光芒万丈。
 
 ---
